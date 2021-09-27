@@ -13,6 +13,9 @@ const Sidebar = (props) => {
             {
                 props.name?.map((elm, indx) => <pre>{elm}  ==>  ${props.charge[indx]}</pre>)
             }
+            <button 
+            onClick = {props.clearLocalStorage}
+            className="commonbtn1">Clear All</button>
         </div>
     );
 };
