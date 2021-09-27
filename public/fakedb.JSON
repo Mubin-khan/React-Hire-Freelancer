@@ -1,0 +1,65 @@
+[
+  {
+    "name": "James Hendrix",
+    "status": "UX/UI Designer",
+    "rating": 5,
+    "charge": 75,
+    "img": "https://source.unsplash.com/175x175/?men"
+  },
+  {
+    "name": "Mubin Khan",
+    "status": "FullStack Developer",
+    "rating": 4.5,
+    "charge": 50,
+    "img": "https://source.unsplash.com/175x175/?man"
+  },
+  {
+    "name": "Muin Ahamed",
+    "status": "Laravel Developer",
+    "rating": 4,
+    "charge": 45,
+    "img": "https://source.unsplash.com/175x175/?Guy"
+  },
+  {
+    "name": "Ashik Moula",
+    "status": "Django Develpoer",
+    "rating": 4,
+    "charge": 50,
+    "img": "https://source.unsplash.com/175x175/?BOY"
+  },
+  {
+    "name": "Tonmoy Dotto",
+    "status": "UX/UI Designer",
+    "rating": 4.5,
+    "charge": 35,
+    "img": "https://source.unsplash.com/175x175/?guy"
+  },
+  {
+    "name": "Shubroto Roy",
+    "status": "MERN Developer",
+    "rating": 3.5,
+    "charge": 45,
+    "img": "https://source.unsplash.com/175x175/?man"
+  },
+  {
+    "name": "Ali Ahamed",
+    "status": "Senior Marketer",
+    "rating": 4,
+    "charge": 65,
+    "img": "https://source.unsplash.com/175x175/?boy"
+  },
+  {
+    "name": "Kulva Dew",
+    "status": "UX/UI Designer",
+    "rating": 4.5,
+    "charge": 40,
+    "img": "https://source.unsplash.com/175x175/?Boy"
+  },
+  {
+    "name": "Anna Smith",
+    "status": "Software Engineer",
+    "rating": 5,
+    "charge": 75,
+    "img": "https://source.unsplash.com/175x175/?girl"
+  }
+]

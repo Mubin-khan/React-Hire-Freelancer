@@ -1,0 +1,16 @@
+.customContainer {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  margin-left: 20px;
+  position: relative;
+}
+.freelancer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.leftside {
+  position: absolute;
+  top: 15px;
+  left: 910px;
+  z-index: 1;
+}
